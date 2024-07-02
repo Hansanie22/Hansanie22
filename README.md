@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hansanie-prabodha-433346316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Nahji Nuzaf" height="30" width="40" /></a>
-<a href="https://github.com/Hansanie22" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Nahji Nuzaf" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hansanie-prabodha-433346316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Hansanie Prabodha" height="30" width="40" /></a>
+<a href="https://www.facebook.com/hnz.Pr?mibextid=ZbWKwL " target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Hansanie Prabodha" height="30" width="40" /></a>
 <a href="https://youtube.com/@hansanieprabodha3182?si=77KEBHg5p5Ib_Frl" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="codeji" height="30" width="40" /></a>
-<a href="https://www.instagram.com/h_nsi22?igsh=MXZpOHI5djh2ZHN5bg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="nahji_.official" height="30" width="40" /></a>
+<a href="https://www.instagram.com/h_nsi22?igsh=MXZpOHI5djh2ZHN5bg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="Hansanie Prabodha" height="30" width="40" /></a>
 
 </p>
 
